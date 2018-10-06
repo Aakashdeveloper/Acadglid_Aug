@@ -1,0 +1,38 @@
+ES6=> Ecma Script
+Es9
+
+functional component
+=> Easy to load
+=> Light
+=> Less functionality
+=> Cannot hanlde state
+=> Props accepted
+
+class based component
+=> Take more time than functional
+=> Bit heavy
+=> More functionality
+=> They can hanlde state
+=> Props accepted
+
+
+State 
+=> Local Variable
+
+Props
+=> Help to sent state of component to another
+
+                    Props
+component 1        =========>           component2
+state{                                  state{ name: ' ' }
+    name:'aakash'
+}
+
+
+function add(a,b){
+    return a+b
+}
+
+const add = () => {
+    return a+b
+}
